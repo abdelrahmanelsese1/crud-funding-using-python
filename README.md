@@ -1,3 +1,2 @@
 # crud funding project using python
- -lab3 
- -lab4
+ lab 3 and lab 4
